@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\bin\Debug\TriggerTetikleyici.exe.config
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\bin\Debug\TriggerTetikleyici.exe
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\bin\Debug\TriggerTetikleyici.pdb
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\obj\Debug\TriggerTetikleyici.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\obj\Debug\TriggerTetikleyici.Form1.resources
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\obj\Debug\TriggerTetikleyici.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\obj\Debug\TriggerTetikleyici.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\obj\Debug\TriggerTetikleyici.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\obj\Debug\TriggerTetikleyici.exe
+C:\Users\BUSE NUR\source\repos\TriggerTetikleyici\TriggerTetikleyici\obj\Debug\TriggerTetikleyici.pdb
